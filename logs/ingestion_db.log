@@ -1,0 +1,30 @@
+2025-07-18 12:28:51,618 - INFO - Ingesting begin_inventory.csv in db
+2025-07-18 12:28:56,218 - INFO - Ingesting end_inventory.csv in db
+2025-07-18 12:29:06,697 - INFO - Ingesting purchases.csv in db
+2025-07-18 12:29:56,771 - INFO - Ingesting purchase_prices.csv in db
+2025-07-18 12:30:16,759 - INFO - Ingesting sales.csv in db
+2025-07-18 12:36:03,139 - INFO - Ingesting vendor_invoice.csv in db
+2025-07-18 12:36:03,415 - INFO - --------------Ingestion Complete------------
+2025-07-18 12:36:03,416 - INFO - 
+Total Time Taken: 7.209184471766154 minutes
+2025-07-18 13:27:50,063 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 13:27:50,069 - WARNING - No such comm: 8f3c61fb-7743-42c7-bb30-42e1065a26a7
+2025-07-18 13:27:50,070 - DEBUG - Current comms: []
+2025-07-18 13:32:35,625 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 13:32:35,630 - WARNING - No such comm: fd43bbcb-dc64-4e9f-8b1f-7867c9a62342
+2025-07-18 13:32:35,631 - DEBUG - Current comms: []
+2025-07-18 14:15:11,974 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 14:15:11,981 - WARNING - No such comm: 03fcfaa4-ad97-4dec-8a71-dda0923b2389
+2025-07-18 14:15:11,982 - DEBUG - Current comms: []
+2025-07-18 15:35:09,257 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 15:35:09,267 - WARNING - No such comm: ffa0fa18-5735-46a2-8698-0cda67631b74
+2025-07-18 15:35:09,268 - DEBUG - Current comms: []
+2025-07-18 15:55:26,366 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 15:55:26,374 - WARNING - No such comm: 8d09bfb8-9dd7-4242-9a6b-1af32a9cebaf
+2025-07-18 15:55:26,375 - DEBUG - Current comms: []
+2025-07-18 17:05:34,215 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 17:05:34,222 - WARNING - No such comm: 81a27529-b8f6-44e8-acd6-8ee179519a65
+2025-07-18 17:05:34,223 - DEBUG - Current comms: []
+2025-07-18 18:41:49,755 - ERROR - No such comm target registered: jupyter.widget.control
+2025-07-18 18:41:49,764 - WARNING - No such comm: 1c51be89-4fa3-4177-b80c-117e59e5e776
+2025-07-18 18:41:49,765 - DEBUG - Current comms: []
